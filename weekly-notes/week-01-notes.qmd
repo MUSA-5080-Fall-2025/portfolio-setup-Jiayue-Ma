@@ -4,20 +4,19 @@ date: "2025-09-08"
 ---
 
 ## Key Concepts Learned
-- [List main concepts from lecture]
-- [Technical skills covered]
+- Basic Git and Github actions
+- Quarto setup & my first website rendering
 
 ## Coding Techniques
-- [New R functions or approaches]
-- [Quarto features learned]
+- Learned a few data wrangling functions in R
 
 ## Questions & Challenges
-- [What I didn't fully understand]
-- [Areas needing more practice]
+- How do I use Git to clone a repository?
+- How do I use quarto to render a website?
+- Which R function should I use to aggregate dataset based on certain columns?
 
 ## Connections to Policy
-- [How this week's content applies to real policy work]
+- Census analysis can provide valuable insights into a region’s fundamental characteristics, including its demographic and economic profile.
 
 ## Reflection
-- [What was most interesting]
-- [How I'll apply this knowledge]
+- Statistics in R is easy and fun!
