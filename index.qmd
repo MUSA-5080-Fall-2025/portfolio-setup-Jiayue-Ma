@@ -15,8 +15,8 @@ Advanced spatial analysis and data science for urban planning and public policy.
 - **Final Project:** Capstone modeling challenge
 
 ## About Me
-[Students will customize this section]
+Hi! My name is Jiayue Ma, and I’m currently a third-year student in a dual degree program in City Planning and Urban Spatial Analytics. I’m excited to return to MUSA 5080 and look forward to supporting you with assignments this semester.
 
 ## Contact
-- Email: [your.email@upenn.edu]
-- GitHub: [@your-username]
+- Email: majiayue@design.upenn.edu
+- GitHub: [@jiayue-ma]
